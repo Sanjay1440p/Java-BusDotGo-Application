@@ -1,4 +1,4 @@
-*********************************************************************BusDotGo Bus Application****************************************************************************************************
+**************BusDotGo Bus Application****************
 
 A console-based Java bus booking application. Users can view buses, create bookings, check booking status, and exit the application. Administrators can manage buses and bookings.
 
